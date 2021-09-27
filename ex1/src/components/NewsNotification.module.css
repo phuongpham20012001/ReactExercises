@@ -1,0 +1,13 @@
+.header {
+  font-size: 18px;
+  font-weight: 700px;
+}
+.container {
+  background-color: rgb(99, 166, 177);
+  color: white;
+  padding: 13px;
+  margin-bottom: 12px;
+  margin-top: 20px;
+  margin-left: 250px;
+  margin-right: 400px;
+}

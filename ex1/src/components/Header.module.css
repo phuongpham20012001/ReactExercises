@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  background-color: rgb(0, 25, 76);
+  color: white;
+  align-items: center;
+  margin-left: 215px;
+  padding-top: 10px;
+}
+.container div {
+  display: flex;
+
+  margin-left: 30px;
+}
+
+.brand {
+  font-size: 30px;
+  font-weight: 700;
+}
+.headerBackground {
+  background-color: rgb(126, 143, 177);
+}

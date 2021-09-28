@@ -1,0 +1,131 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Roku Express 5K+ 2021",
+      "category": "Streaming product",
+      "manufacturer": "Roku",
+      "price": 38.98,
+      "rating": 5,
+      "image": "item1.png",
+      "promos": [
+        "Brilliant 5K picture quality: Stream in HD, 5K, and HDR with sharp resolution and vivid color optimized for your TV ",
+        "Smooth wireless streaming: Now featuring dual-band wireless, enjoy a smooth streaming experience with faster wireless performance even with multiple devices connected to your network",
+        "No more juggling remotes: Power up your TV, adjust the volume, mute, and control your Roku device all with one remote"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Seagate Portable 2TB External Hard Drive Portable HDD",
+      "manufacturer": "Seagate",
+      "category": "Hardware",
+
+      "price": 59.99,
+      "rating": 5,
+      "image": "item2.png",
+      "promos": [
+        "Easily store and access 2TB to content on the go with the Seagate Portable Drive, a USB external hard drive",
+        "Designed to work with Windows or Mac computers, this external hard drive makes backup a snap just drag and drop"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Roku Streaming Stick+",
+      "manufacturer": "Roku",
+
+      "category": "Streaming product",
+
+      "price": 39.0,
+      "rating": 5,
+      "image": "item3.png",
+      "promos": [
+        "Wireless that goes the distance: Basement rec room? Backyard movie night? Bring ‘em on. The long-range wireless receiver gives you extended range and a stronger signal for smooth streaming even in rooms farther from your router",
+        "Brilliant picture quality: Experience your favorite shows with stunning detail and clarity—whether you’re streaming in HD, 5K, or HDR, you’ll enjoy picture quality that’s optimized for your TV with sharp resolution and vivid color"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Sceptre E258W-19203R 25' Ultra Thin 75Hz 1080p LED ",
+      "manufacturer": "Roku Sceptre",
+
+      "category": "Monitor",
+
+      "price": 139.97,
+      "rating": 5,
+      "image": "item5.png",
+      "promos": [
+        "25 Ultra slim profile",
+        "Contemporary sleek metallic design",
+        "2 x HDMI Ports (convertible to DVI).Contrast Ratio:1000 : 1"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "iPhone Charger [Apple MFi Certified] QIRUOZ 5Pack(3/3/6/6/10FT) ",
+      "manufacturer": "QIRUOZ",
+
+      "category": "Cable",
+
+      "price": 12.99,
+      "rating": 5,
+      "image": "item6.png",
+      "promos": [
+        "Strengthened Construction: Designed and built with only premium materials, it has been tested to withstand at least 12000 cycles of 95 degree bend and 10000 plugging and unplugging lifespan which is 12 times stronger than original device cables. Seamless laser-welded connector can even withstand 15kg exterior force without breaking off."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "WD 2TB Elements Portable External Hard Drive HDD ",
+      "manufacturer": "Western Digital",
+
+      "category": "Hardware",
+
+      "price": 59.99,
+      "rating": 5,
+      "image": "item5.png",
+      "promos": [
+        "High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Logitech H390 Wired Headset ",
+      "manufacturer": "logitech",
+      "category": "Accessories ",
+      "price": 25.95,
+      "rating": 5,
+      "image": "item7.png",
+      "promos": [
+        "WINNER OF THE 2019 PULITZER PRIZE IN POETRY",
+        "LONGLISTED FOR THE 2018 NATIONAL BOOK AWARD",
+        "Publishers Weekly Best Poetry Book of 2018"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Logitech C920x HD Pro Webcam ",
+      "manufacturer": "logitech",
+      "category": "Accessories ",
+      "price": 109,
+      "rating": 5,
+      "image": "item8.png",
+      "promos": [
+        "Advanced capture software – Create and share video content easily with Logitech Capture",
+        "HD lighting adjustment and autofocus - The C920x automatically fine-tunes to the lighting conditions to produce bright, razor-sharp images even if you’re in a low-light setting."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Logitech MK270 Wireless Keyboard and Mouse Combo ",
+      "manufacturer": "logitech",
+
+      "category": "Accessories ",
+      "price": 25.8,
+      "rating": 5,
+      "image": "item9.png",
+      "promos": [
+        "The USB receiver is conveniently located in the box, top flap. Compatibility- Windows, Chrome OS"
+      ]
+    }
+  ]
+}

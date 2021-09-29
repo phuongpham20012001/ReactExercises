@@ -54,6 +54,11 @@ class App extends React.Component {
       name: name,
 
       price: price,
+      manufacturer: manufacturer,
+      category: category,
+      images: images,
+      promos: promos,
+      rating: rating,
     });
 
     this.setState({

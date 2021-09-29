@@ -42,10 +42,10 @@ app.post("/products", function (req, res) {
     name: req.body.name,
     manufacturer: req.body.manufacturer,
     category: req.body.category,
-    image: req.body.image,
   });
   res.send("ok");
-  res.json(newProduct);
+  res.json(productData.items);
+  res.setHeader("Content-Type", "text/plain");
 });
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`);

@@ -2,10 +2,6 @@ import React from "react";
 import styles from "./SearchResult.module.css";
 
 export default function SearchResult(props) {
-  const onclickedItem = (ID) => {
-    props.computeSomethings(ID);
-  };
-
   return (
     <div className={styles.product}>
       <div>
@@ -23,13 +19,6 @@ export default function SearchResult(props) {
         <div className={styles.rating}>{props.rating} ★★★★★</div>
         <div>{props.promos}</div>
         <div>${props.price}</div>
-
-        <button
-          className={styles.button}
-          onClick={() => onclickedItem(props.id)}
-        >
-          View Detail
-        </button>
       </div>
       <div></div>
     </div>
